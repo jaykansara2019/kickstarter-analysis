@@ -7,6 +7,7 @@ Our client's one of the plays are coming closer to reaching its fundraising goal
 ## **Analysis and Challenges**
 ### **Analysis of Outcomes Based on Launch Date - Part 1**
 The analysis was performed by creating a pivot chart and selecting the criteria for pivot fields accordingly. The pivot field criteria have been depicted in the image below. 
+
 ![Pivot field criteria](screenshot.png)
 
 No challenges were faced during the analysis of this part. 
